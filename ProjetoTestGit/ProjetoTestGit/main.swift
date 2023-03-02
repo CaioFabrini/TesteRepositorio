@@ -7,5 +7,7 @@
 
 import Foundation
 
-var hello = "Hello, World!" 
+var hello = "Hello, World!"
+
+// Criando novo comentario para teste git
 
